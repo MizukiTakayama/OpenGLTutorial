@@ -1,4 +1,4 @@
-//sampleƒTƒ“ƒvƒ‹
+//sample
 
 
 /**
